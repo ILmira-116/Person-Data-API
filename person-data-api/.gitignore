@@ -1,0 +1,30 @@
+# Бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Кэш Go
+*.out
+
+# Сборка
+/build/
+vendor/
+
+# Файлы конфигурации
+.env
+.env.*
+
+# IDE/редакторы
+.vscode/
+.idea/
+*.swp
+
+# Логи
+*.log
+
+# Swagger генерируемые файлы
+docs/swagger.json
+docs/swagger.yaml
